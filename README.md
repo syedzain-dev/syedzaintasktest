@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management System (React + Express + MySQL)
 
 Complete web app meeting the spec: JWT auth, tasks CRUD, categories, filters, basic analytics, validation, and Docker setup.
@@ -53,3 +54,6 @@ See `server/schema.sql` (DDL) if you prefer manual setup.
 - Ownership checks: users only access their own categories and tasks.
 - Environment variables keep secrets out of code.
 - Logging via morgan.
+=======
+# syedzaintasktest
+>>>>>>> 8c8039d987107e61384456490e8c785e1fbe188d
